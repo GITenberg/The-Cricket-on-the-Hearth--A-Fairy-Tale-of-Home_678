@@ -1,0 +1,49 @@
+_repo: The-Cricket-on-the-Hearth--A-Fairy-Tale-of-Home_678
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "The Cricket on the Hearth: A Fairy Tale of Home is a novella by Charles\
+  \ Dickens, published by Bradbury and Evans, and released 20 December 1845 with illustrations\
+  \ by Daniel Maclise, John Leech, Richard Doyle, Clarkson Stanfield and Edwin Henry\
+  \ Landseer. Dickens began writing the book around 17 October 1845 and finished it\
+  \ by 1 December. Like all of Dickens's Christmas books, it was published in book\
+  \ form, not as a serial. Dickens described the novel as \"quiet and domestic [...]\
+  \ innocent and pretty.\" It is subdivided into chapters called \"Chirps\", similar\
+  \ to the \"Quarters\" of The Chimes or the \"Staves\" of A Christmas Carol. It is\
+  \ the third of Dickens's five Christmas books, preceded by A Christmas Carol (1843)\
+  \ and The Chimes (1844), and followed by The Battle of Life (1846) and The Haunted\
+  \ Man and the Ghost's Bargain (1848).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '678'
+  wikidata: Q825220
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories, English'
+- !lcsh 'Holidays -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: 'The Cricket on the Hearth: A Fairy Tale of Home'
+url: http://www.gutenberg.org/ebooks/678
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Grillon_du_foyer_(nouvelle)
+- https://ar.wikipedia.org/wiki/%D8%B5%D8%B1%D8%A7%D8%B1_%D8%A7%D9%84%D9%84%D9%8A%D9%84_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%AF
+- https://pt.wikipedia.org/wiki/The_Cricket_on_the_Hearth
+- https://de.wikipedia.org/wiki/Das_Heimchen_am_Herde
+- https://en.wikipedia.org/wiki/The_Cricket_on_the_Hearth
+- https://kw.wikipedia.org/wiki/The_Cricket_on_the_Hearth
+- https://it.wikipedia.org/wiki/Il_grillo_del_focolare
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%87%D0%BE%D0%BA_%D0%B7%D0%B0_%D0%BE%D1%87%D0%B0%D0%B3%D0%BE%D0%BC
